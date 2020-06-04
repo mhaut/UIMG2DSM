@@ -1,5 +1,5 @@
 # U-IMG2DSM: Unpaired Simulation of Digital Surface Models with Generative Adversarial Networks
-The Code for "U-IMG2DSM: Unpaired Simulation of Digital Surface Models with Generative Adversarial Networks". []
+The Code for "U-IMG2DSM: Unpaired Simulation of Digital Surface Models with Generative Adversarial Networks". [https://ieeexplore.ieee.org/document/9108295]
 ```
 M. E. Paoletti, J. M. Haut, P. Ghamisi, N. Yokoya, J. Plaza and A. Plaza.
 U-IMG2DSM: Unpaired Simulation of Digital Surface Models with Generative Adversarial Networks.
