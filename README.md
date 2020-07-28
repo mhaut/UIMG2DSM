@@ -20,9 +20,9 @@ python join_dset.py
 
 
 # To generated DSM from IMG
-python test_batch.py --trainer UNIT --config ./configs/unit_img2dsm_folder.yaml --a2b 1 --input ./dataset/testA/ --output_folder ./results/outputs --checkpoint ./outputs/unit_img2dsm_folder/checkpoints/gen_00700000.pt
+python test_batch.py --config ./configs/unit_img2dsm_folder.yaml --a2b 1 --input ./dataset/testA/ --output_folder ./results/outputs --checkpoint ./outputs/unit_img2dsm_folder/checkpoints/gen_00700000.pt
 # To train new network
-python train.py --trainer UNIT --config ./configs/unit_img2dsm_folder.yaml
+python train.py --config ./configs/unit_img2dsm_folder.yaml
 
 
 # To get metrics
